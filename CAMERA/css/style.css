@@ -1,0 +1,171 @@
+
+.navbar-nav
+{
+    float: right;
+}
+.navbar
+{
+    background-color: black !important;
+}
+.image1
+{
+    background-image: url(../images/1.jpg);
+    height: 700px;
+
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.header-text
+{
+    text-align: center;
+   
+}
+.header-text h1{
+    padding-top: 300px;
+    color: white;
+    font-size: 4rem;
+}
+.header-text p{
+    color: white;
+    font-size: 2rem;
+}
+/*Services*/
+.services1 h3
+{
+   padding-top: 50px;
+   padding-bottom: 10px;
+
+}
+.services1 p{
+    padding-bottom: 20px;
+}
+.button {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.card1
+{
+    padding-top: 120px;
+}
+.card-body img{
+    padding-left: 120px;
+}
+.card p{
+    font-size: 15px;
+}
+
+.what-we-do
+{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.what-we-do-card img
+{
+    padding-left: 95px;
+    padding-bottom: 20px;
+}
+.what-we-do-card1 img{
+    padding-left: 90px;
+    padding-bottom: 20px;
+}
+.what-we-do-card2 img{
+    padding-left: 80px;
+    padding-bottom: 20px;
+}
+.button1
+{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+.cards
+{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.section3
+{
+    background-image: url(../images/bg1.jpg);
+}
+.faqs1
+{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.faqs-image
+{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.faqs-content
+{
+    padding-top: 60px;
+    padding-left: 100px;
+}
+.subscribe1
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-bottom: 10px white;
+}
+.subscribe1 input
+{
+    padding-bottom: 9px;
+    padding-top: 7px;
+    padding-right: 170px;
+    color: white;
+}
+.subscribe1 span
+{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.subscribe1 a{
+    color: white;
+}
+
+.subscribe-image
+{
+    background-image: url(../images/bg3.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer
+{
+    background-color:#212529;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    text-align: center;
+}
+
+/*album*/
+
+.album-img1
+{
+    padding-bottom: 20px;
+}
+.album-img2
+{
+    padding-bottom: 50px;
+}
+.about-img
+{
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+.team-img
+{
+    padding-bottom: 50px;
+}
